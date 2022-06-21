@@ -39,4 +39,4 @@
 // git remote : origin 복제한 url을 참조하기 위해 호출
 // git remote add origin https://github.com/kim-seung-hun/220621.git (자신의 git 저장소 주소)를 추가해준다.
 
-// git push -u origin main 깃 저장소에 첫 커밋을 푸쉬
+// git push -u origin main 깃 저장소에 첫 커밋을 푸쉬 
