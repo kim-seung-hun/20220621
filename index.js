@@ -122,3 +122,5 @@
 // 쓰기창에 이미지를 드래그해서 넣으면
 // ![farm](https://user-images.githubusercontent.com/107898063/174936984-05eec817-e976-425b-a248-a80d2a56a4e6.png)
 // 이렇게 뜨는데 그대로 복사해서 붙여넣으면 된다........
+
+///fdsofjsdifjlisd
